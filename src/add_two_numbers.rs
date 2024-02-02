@@ -13,7 +13,7 @@ impl ListNode {
         ListNode { next: None, val }
     }
 
-    pub fn new_from_number(num: i32) -> Self {
+    pub fn new_from_i32(num: i32) -> Self {
         if num == 0 {
             return ListNode {
                 next: None,
