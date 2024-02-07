@@ -4,7 +4,7 @@ use crate::Solution;
 
 impl Solution {
     pub fn roman_to_int(s: String) -> i32 {
-        let mut numbers = HashMap::from([
+        let numbers = HashMap::from([
             ('I', 1),
             ('V', 5),
             ('X', 10),
