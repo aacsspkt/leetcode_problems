@@ -8,6 +8,7 @@ pub mod valid_parentheses;
 pub mod merge_two_sorted_linkedlist;
 pub mod remove_duplicates_from_vector;
 pub mod remove_elements_from_vector;
+pub mod search_insert_position;
 
 pub struct Solution;
 
