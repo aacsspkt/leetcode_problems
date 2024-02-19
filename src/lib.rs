@@ -1,6 +1,7 @@
 pub mod add_two_numbers;
 pub mod find_median_sorted_arrays;
 pub mod longest_common_prefix;
+pub mod longest_palindromic_substring;
 pub mod longest_substring_length;
 pub mod merge_two_sorted_linkedlist;
 pub mod palindrome_number;
