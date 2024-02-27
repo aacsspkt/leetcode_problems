@@ -7,6 +7,7 @@ pub mod merge_two_sorted_linkedlist;
 pub mod palindrome_number;
 pub mod remove_duplicates_from_vector;
 pub mod remove_elements_from_vector;
+pub mod reverse_integer;
 pub mod roman_to_integer;
 pub mod search_insert_position;
 pub mod two_sum;
